@@ -1,0 +1,8 @@
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\bin\Debug\netstandard2.0\RedeSocial.Domain.deps.json
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\bin\Debug\netstandard2.0\RedeSocial.Domain.dll
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\bin\Debug\netstandard2.0\RedeSocial.Domain.pdb
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\obj\Debug\netstandard2.0\RedeSocial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\obj\Debug\netstandard2.0\RedeSocial.Domain.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\obj\Debug\netstandard2.0\RedeSocial.Domain.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\obj\Debug\netstandard2.0\RedeSocial.Domain.dll
+C:\Users\PICHAU\Desktop\FAculdade\RedeSocial\RedeSocial.Domain\obj\Debug\netstandard2.0\RedeSocial.Domain.pdb
